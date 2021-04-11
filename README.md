@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @dcrazyboy : Droid Crazyboy
 - 👀 I’m interested in PostgreSQL, opensimulator metavers, Blender, Maya 
 - 🌱 I’m currently learning on my own, depending of my mood
+- 🗣️: 🇫🇷 naturaly
+      🇬🇧 professionaly need 😛
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
    - by mail 
