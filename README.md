@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @dcrazyboy : Droid Crazyboy
-- 👀 I’m interested in PostgreSQL, opensimulator metavers, Blender, Maya 
-- 🌱 I’m currently learning on my own, depending of my mood
+- 👨‍💻 Mainly PostgreSQL DBA (prod and dev) and formely Oracle DBA (dev) using Linux (RedhHat : professionaly, Rocky at home)
+- 👀 I’m interested in opensimulator metavers, Blender, Maya 
+- 🌱 I’m currently learning on my own, depending of my mood :
+      - 🌱 : actually KVM and OKD 
 - 🗣️: 🇫🇷 naturaly
       🇬🇧 professionaly need 😛
 - 💞️ I’m looking to collaborate on ...
